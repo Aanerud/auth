@@ -1,6 +1,3 @@
-Sure, I'll provide a detailed `README.md` that includes instructions on the necessary variable replacements, how to set the startup script, and the steps to deploy the app on Azure WebApps.
-
-```markdown
 # Azure AD Authentication with Flask WebApp
 
 This project demonstrates the process of moving from an on-premises Active Directory (AD) setup to a cloud-based Azure Active Directory (Azure AD). It includes synchronizing directories, enabling Multi-Factor Authentication (MFA), and using a Flask web application to host OAuth 2.0 authentication for third-party applications.
@@ -86,6 +83,3 @@ After deploying, your Flask application should be up and running on Azure Web Ap
 ## Conclusion
 
 This setup provides a secure way to integrate on-premises AD with Azure AD, enabling MFA and using OAuth 2.0 authentication for third-party applications. By leveraging Azure AD and Flask, you can enhance security and streamline authentication across your organization.
-```
-
-This `README.md` file outlines the necessary steps and configurations for deploying your Flask application on Azure WebApps, ensuring the integration with Azure AD for authentication.
